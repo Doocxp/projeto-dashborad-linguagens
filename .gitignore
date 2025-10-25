@@ -1,0 +1,17 @@
+# Arquivos gerais do Git
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de dependências
+/backend/node_modules
+/frontend/node_modules
+
+# Arquivos de build do Front-end
+/frontend/dist
+
+# Logs e temporários
+*.log
+tmp/
